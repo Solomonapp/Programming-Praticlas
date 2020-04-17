@@ -1,8 +1,8 @@
 /**********************************************************
  * A Linked List class.
  * 
- * @author Charles Day 
- * @version Feb 2003
+ * @author Solomon
+ * @version Feb 2k19
  *********************************************************/
 public class LinkedList {
     
